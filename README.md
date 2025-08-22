@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
-  <a href="https://www.linkedin.com/in/wepull" target="_blank"><img loading="lazy" src="https://raw.githubusercontent.com/wepull/wepull/main/LI-In-Bug.png" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/wepull" target="_blank">
+    <img loading="lazy" src="https://raw.githubusercontent.com/wepull/wepull/main/LI-In-Bug.png" width="48" height="48">
+  </a>   
 </div>
 
